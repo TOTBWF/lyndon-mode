@@ -1,6 +1,6 @@
 # lyndon-mode
 
-This package provides a minor mode for interactively displaying the (Lyndon Factorization)[https://en.wikipedia.org/wiki/Monoid_factorisation#Chen%E2%80%93Fox%E2%80%93Lyndon_theorem]
+This package provides a minor mode for interactively displaying the [Lyndon Factorization](https://en.wikipedia.org/wiki/Monoid_factorisation#Chen%E2%80%93Fox%E2%80%93Lyndon_theorem)
 of the current buffer.
 
 ## Usage
